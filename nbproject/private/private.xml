@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/web/components/adminNavbarComponent.jsp</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/controller/DetailController.java</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/model/Product.java</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/controller/CheckOutController.java</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/model/OrderDetail.java</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/controller/EditCategoryController.java</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/controller/manager/ManagerAccountController.java</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/web/detail.jsp</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/dal/CategoryDBContext.java</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/controller/SearchController.java</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/web/Edit.jsp</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/web/home.jsp</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/controller/LoadAccountController.java</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/web/components/navBarComponent.jsp</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/model/Order.java</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/controller/EditAccountController.java</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/controller/EditProductController.java</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/dal/OrderDetailDBcontext.java</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/controller/manager/ManagerController.java</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/web/WEB-INF/web.xml</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/controller/DeleteProductController.java</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/controller/LoadController.java</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/web/EditCategory.jsp</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/web/ManagerCategory.jsp</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/controller/CategoryController.java</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/controller/ThankController.java</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/controller/manager/MannagerOrderController.java</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/dal/AcountDBContext.java</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/controller/HomeController.java</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/controller/EditOrder.java</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/dal/OrderDBcontext.java</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/model/Cart.java</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/web/js/scripts.js</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/controller/DeleteOrderDetailController.java</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/web/cart.jsp</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/web/checkout.jsp</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/controller/DeleteCartController.java</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/controller/authentication/LoginController.java</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/controller/manager/ManagerCategoryController.java</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/enums/StatusEnum.java</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/web/change-newpassword.jsp</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/web/ManagerProduct.jsp</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/web/components/footerComponent.jsp</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/web/ManagerOrder.jsp</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/controller/AddToCartController.java</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/web/managerOrderDetail.jsp</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/web/ManagerCustomer.jsp</file>
+            <file>file:/D:/CongCongShop_Prj/CongCongShop_Prj2/CongCongShop_Prj/src/java/dal/ProductDBContext.java</file>
+        </group>
+    </open-files>
+</project-private>
